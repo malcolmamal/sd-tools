@@ -1,0 +1,1 @@
+bash && conda activate diffusers
